@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yaragattipraveen.github.io/csb-18ndh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yaragattipraveen.github.io/csb-18ndh/static/js/main.8ae3f682.chunk.js",
+    "main.js.map": "https://yaragattipraveen.github.io/csb-18ndh/static/js/main.8ae3f682.chunk.js.map",
+    "runtime-main.js": "https://yaragattipraveen.github.io/csb-18ndh/static/js/runtime-main.2d9efd1d.js",
+    "runtime-main.js.map": "https://yaragattipraveen.github.io/csb-18ndh/static/js/runtime-main.2d9efd1d.js.map",
+    "static/js/2.630a3eed.chunk.js": "https://yaragattipraveen.github.io/csb-18ndh/static/js/2.630a3eed.chunk.js",
+    "static/js/2.630a3eed.chunk.js.map": "https://yaragattipraveen.github.io/csb-18ndh/static/js/2.630a3eed.chunk.js.map",
+    "index.html": "https://yaragattipraveen.github.io/csb-18ndh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yaragattipraveen.github.io/csb-18ndh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.630a3eed.chunk.js.LICENSE.txt": "https://yaragattipraveen.github.io/csb-18ndh/static/js/2.630a3eed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d9efd1d.js",
+    "static/js/2.630a3eed.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8ae3f682.chunk.js"
+  ]
+}
